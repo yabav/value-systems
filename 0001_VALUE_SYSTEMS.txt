@@ -1,0 +1,169 @@
+
+    0001_VALUE_SYSTEMS.txt                                             yabav    
+    Category: Sociology                                           March 2022
+                                                                            
+                                                                            
+
+
+                                Value Systems
+
+
+    Abstract
+
+        The defining characteristic of culutures and individuals are their 
+        values; a person's principles or standards of behavior; one's 
+        judgment of what is important in life.
+
+    Copyright and License Notice
+
+        Copyright 2022 yabav
+
+        Licensed under the Apache License, Version 2.0 (the "License");
+        you may not use this file except in compliance with the License.
+        You may obtain a copy of the License at
+
+            http://www.apache.org/licenses/LICENSE-2.0
+
+        Unless required by applicable law or agreed to in writing, software
+        distributed under the License is distributed on an "AS IS" BASIS,
+        WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or 
+        implied. See the License for the specific language governing 
+        permissions and limitations under the License.
+
+
+    Table of Contents
+
+      1. Part I   . . . . . . . . . . . . . . . . . . . . . . . . . . .  2    
+      2. Part II    . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+      2. Part III   . . . . . . . . . . . . . . . . . . . . . . . . . .  2     
+       
+       
+       
+       
+       
+       
+
+
+
+
+
+
+
+
+     
+     
+     
+    yabav                       Value Systems                       [Page 1]
+    
+    0001_VALUE_SYSTEMS.txt                                        March 2022
+    
+
+    1. Overview
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. 
+
+
+    2. Usage
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. 
+       
+       
+    3. Code Changes
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean 
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       
+           
+    yabav                       Value Systems                       [Page 2]
+    
+    0001_VALUE_SYSTEMS.txt                                        March 2022
+
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. 
+
+
+    4. Usage
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. 
+       
+       
+    5. Code Changes
+
+       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
+       tie est in porta cursus. Proin vulputate rutrum odio, vel 
+       pellentesque nisl faucibus id. Quisque elementum nibh in libero 
+       rutrum, at viverra felis consequat. Praesent gravida diam dolor, 
+       cursus molestie diam tincidunt vitae. Nunc id nisi faucibus, egestas 
+       orci a, auctor ex. Pellentesque imperdiet eleifend nulla, eget 
+       dictum nulla scelerisque quis. Etiam in dolor lobortis, molestie 
+       ante eget, dapibus neque. Aenean feugiat ligula sit amet lectus 
+       ultrices, id ultricies nisl vehicula. Maecenas nec pellentesque 
+       arcu, id fermentum tellus. Duis in ligula id ipsum finibus 
+       efficitur. Integer laoreet fermentum dui, in cursus erat pharetra 
+       eget. 
+       
+       
+       
+       
+       
+     
+           
+    yabav                       Value Systems                       [Page 3]
+    
