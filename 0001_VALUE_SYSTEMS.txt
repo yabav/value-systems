@@ -61,16 +61,17 @@
     1. Overview
 
        A person and a culture is defined by their values. These values are 
-       bestowed upon us as mysteriously as life itself. Born into a culture, 
-       a nation, and, if fortunate, a family. And from these entities, we inherit 
-       their culture as our own. But if we are defined by our values and wish to 
-       correct ourselves, we need to fix our value system. In order to correct
-       our inner value system requires control of our inner self. Thus, through
-       self control, we can resolve our problems through correcting our value 
-       system identifying desirable and undesirable values.
+       bestowed upon us as mysteriously as life itself. Born into a culture,
+       a nation, and, if fortunate, a family. And from these entities, we 
+       inherit their culture as our own. But if we are defined by our values
+       and wish to correct ourselves, we need to fix our value system. In 
+       order to correct our inner value system requires control of our inner
+       self. Thus, through self control, we can resolve our problems through
+       correcting our value system identifying desirable and undesirable 
+       values.
 
 
-    2. Usage
+    2. 100 Values
 
        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean moles
        tie est in porta cursus. Proin vulputate rutrum odio, vel 
